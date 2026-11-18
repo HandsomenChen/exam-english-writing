@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研英语作文命题"
+  short_description: "复盘英一英二大小作文真题，筛选题材、编写两版范文并生成分册训练 PDF"
+  default_prompt: "用 $exam-english-writing 为考研英语一、二的大小作文筛选主题，并制作完整训练资料。"
